@@ -1,3 +1,5 @@
+This project is my testing app to start learning React, based on the Udacity Front End Web Developer Nanodegree course "Building with React"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
